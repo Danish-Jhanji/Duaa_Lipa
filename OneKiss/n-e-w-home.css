@@ -1,0 +1,686 @@
+.kiss6 {
+  color: var(--color-lightpink);
+}
+.one-kiss6 {
+  text-decoration: none;
+  position: absolute;
+  top: 33px;
+  left: 66px;
+  font-size: var(--font-size-45xl);
+  font-family: var(--font-lobster);
+  cursor: pointer;
+  color: inherit;
+}
+.new-home-child {
+  position: absolute;
+  top: 147px;
+  left: 0;
+  background-color: var(--color-mistyrose);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 1440px;
+  height: 52px;
+}
+.for-you5 {
+  position: absolute;
+  top: 13.46%;
+  left: 27%;
+  font-size: var(--font-size-9xl);
+  font-family: var(--font-dm-sans);
+  color: var(--color-black);
+  text-align: center;
+}
+.find-button5 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 147px;
+  left: 199px;
+  width: 200px;
+  height: 52px;
+}
+.rectangle-input {
+  border: 1px solid var(--color-black);
+  background-color: var(--color-white);
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  box-sizing: border-box;
+}
+.likes5 {
+  position: absolute;
+  top: 13.46%;
+  left: 34%;
+  font-size: var(--font-size-9xl);
+  font-family: var(--font-dm-sans);
+  color: var(--color-black);
+  text-align: center;
+}
+.for-you-button15 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 147px;
+  left: 398px;
+  width: 200px;
+  height: 52px;
+}
+.messages5 {
+  position: absolute;
+  top: 13.46%;
+  left: 18%;
+  font-size: var(--font-size-9xl);
+  font-family: var(--font-dm-sans);
+  color: var(--color-black);
+  text-align: center;
+}
+.for-you-button16 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 147px;
+  left: 597px;
+  width: 200px;
+  height: 52px;
+}
+.profile-bg3 {
+  height: 97.56%;
+  width: 97.56%;
+  top: 2.44%;
+  right: 0;
+  bottom: 0;
+  left: 2.44%;
+  background-color: var(--color-black);
+}
+.photo-box-icon12,
+.profile-bg3,
+.profile-box3 {
+  position: absolute;
+  border-radius: var(--br-11xl);
+}
+.profile-box3 {
+  height: 97.56%;
+  width: 97.56%;
+  top: 0;
+  right: 2.44%;
+  bottom: 2.44%;
+  left: 0;
+  background-color: var(--color-lemonchiffon);
+}
+.photo-box-icon12 {
+  height: 73.17%;
+  width: 86.83%;
+  top: 3.58%;
+  right: 7.8%;
+  bottom: 23.25%;
+  left: 5.37%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.name-age3 {
+  position: absolute;
+  width: 53.66%;
+  top: 82.44%;
+  left: 9.02%;
+  display: inline-block;
+}
+.location-on-icon3 {
+  position: absolute;
+  height: 4.88%;
+  width: 7.32%;
+  top: 88.46%;
+  right: 83.66%;
+  bottom: 6.67%;
+  left: 9.02%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.chandigarh-chandigarh3 {
+  position: absolute;
+  top: 88.78%;
+  left: 16.83%;
+  font-size: var(--font-size-xl);
+  color: var(--color-dimgray);
+}
+.like-bg3,
+.like-box3 {
+  position: absolute;
+  height: 94.59%;
+  width: 94.59%;
+  top: 5.41%;
+  right: 0;
+  bottom: 0;
+  left: 5.41%;
+  border-radius: var(--br-mini);
+  background-color: var(--color-black);
+  border: 2px solid var(--color-black);
+  box-sizing: border-box;
+}
+.like-box3 {
+  top: 0;
+  right: 5.41%;
+  bottom: 5.41%;
+  left: 0;
+  background-color: var(--color-lightpink);
+}
+.favorite-icon3 {
+  position: absolute;
+  height: 40.54%;
+  width: 40.54%;
+  top: 27.03%;
+  right: 32.43%;
+  bottom: 32.43%;
+  left: 27.03%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.component-63 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  height: 12.03%;
+  width: 18.05%;
+  top: 66.99%;
+  right: 25.85%;
+  bottom: 20.98%;
+  left: 56.1%;
+}
+.cross-bg4,
+.cross-box4 {
+  position: absolute;
+  height: 94.59%;
+  width: 93.33%;
+  top: 5.41%;
+  right: 0;
+  bottom: 0;
+  left: 6.67%;
+  border-radius: var(--br-mini);
+  background-color: var(--color-black);
+  border: 2px solid var(--color-black);
+  box-sizing: border-box;
+}
+.cross-box4 {
+  top: 0;
+  right: 6.67%;
+  bottom: 5.41%;
+  left: 0;
+  background-color: var(--color-papayawhip);
+}
+.multiply-icon4 {
+  position: absolute;
+  height: 54.05%;
+  width: 53.33%;
+  top: 20.27%;
+  right: 26.67%;
+  bottom: 25.68%;
+  left: 20%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.cross4 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  height: 12.03%;
+  width: 18.29%;
+  top: 66.99%;
+  right: 58.29%;
+  bottom: 20.98%;
+  left: 23.41%;
+}
+.profile-11 {
+  text-decoration: none;
+  position: absolute;
+  top: 300px;
+  left: 50px;
+  width: 410px;
+  height: 615px;
+  color: inherit;
+}
+.profile-box4 {
+  position: absolute;
+  height: 97.56%;
+  width: 97.56%;
+  top: 0;
+  right: 2.44%;
+  bottom: 2.44%;
+  left: 0;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-lightgoldenrodyellow);
+}
+.name-age4,
+.profile-21 {
+  position: absolute;
+  top: 82.44%;
+  left: 9.02%;
+}
+.profile-21 {
+  text-decoration: none;
+  top: 300px;
+  left: 515px;
+  width: 410px;
+  height: 615px;
+  color: inherit;
+}
+.profile-box5 {
+  position: absolute;
+  height: 97.56%;
+  width: 97.56%;
+  top: 0;
+  right: 2.44%;
+  bottom: 2.44%;
+  left: 0;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-azure);
+}
+.profile-31 {
+  text-decoration: none;
+  position: absolute;
+  top: 300px;
+  left: 980px;
+  width: 410px;
+  height: 615px;
+  color: inherit;
+}
+.for-you-button-child13 {
+  cursor: pointer;
+  border: 1px solid var(--color-black);
+  padding: 0;
+  background-color: var(--color-lightpink);
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  box-sizing: border-box;
+}
+.find5 {
+  position: absolute;
+  top: 13.46%;
+  left: 35.5%;
+  font-size: var(--font-size-9xl);
+  font-family: var(--font-dm-sans);
+  color: var(--color-black);
+  text-align: center;
+}
+.for-you-button17 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 147px;
+  left: 0;
+  width: 200px;
+  height: 52px;
+}
+.help15 {
+  text-decoration: none;
+  position: absolute;
+  top: 0;
+  left: 0;
+  color: inherit;
+}
+.amaiya12,
+.help14 {
+  position: absolute;
+  top: 48px;
+  left: 1302px;
+  width: 72px;
+  height: 50px;
+  font-size: var(--font-size-21xl);
+  font-family: var(--font-lobster);
+}
+.amaiya12 {
+  left: 1079px;
+  width: 121px;
+}
+.filter-bar-child {
+  position: absolute;
+  top: 94px;
+  left: 0;
+  background-color: var(--color-mistyrose);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 1440px;
+  height: 45px;
+}
+.filter-bar-item {
+  position: absolute;
+  top: 0;
+  left: 905px;
+  width: 100px;
+  height: 100px;
+  overflow: hidden;
+}
+.filter-bar-child1,
+.filter-bar-child2,
+.filter-bar-child3,
+.filter-bar-inner {
+  border: 1px solid var(--color-black);
+  background-color: var(--color-papayawhip);
+  position: absolute;
+  top: 94px;
+  left: 199px;
+  box-sizing: border-box;
+  width: 270px;
+  height: 45px;
+}
+.filter-bar-child1,
+.filter-bar-child2,
+.filter-bar-child3 {
+  left: 467px;
+}
+.filter-bar-child2,
+.filter-bar-child3 {
+  left: 735px;
+}
+.filter-bar-child3 {
+  left: 1003px;
+}
+.drink,
+.education,
+.item-1,
+.looking-for,
+.smoke {
+  position: absolute;
+  top: 104px;
+  left: 244px;
+  line-height: 28px;
+}
+.education,
+.item-1,
+.looking-for,
+.smoke {
+  left: 512px;
+}
+.education,
+.item-1,
+.looking-for {
+  left: 767px;
+}
+.item-1,
+.looking-for {
+  left: 1022px;
+}
+.item-1 {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  left: 0;
+  font-size: var(--font-size-base);
+  font-family: var(--font-dm-sans);
+  color: var(--color-black);
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.component-14 {
+  position: absolute;
+  height: 24.44%;
+  width: 92.7%;
+  top: 75.56%;
+  right: 3.65%;
+  bottom: 0;
+  left: 3.65%;
+  display: none;
+}
+.component-13-child {
+  cursor: pointer;
+  border: 1px solid var(--color-black);
+  padding: 0;
+  background-color: var(--color-white);
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  box-sizing: border-box;
+}
+.component-12,
+.component-13 {
+  position: absolute;
+  height: 24.44%;
+  width: 92.7%;
+  top: 53.33%;
+  right: 3.65%;
+  bottom: 22.22%;
+  left: 3.65%;
+  display: none;
+}
+.component-12 {
+  top: 30.37%;
+  bottom: 45.19%;
+}
+.component-15-child {
+  cursor: pointer;
+  position: absolute;
+  height: 30.37%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 69.63%;
+  left: 0;
+}
+.component-15 {
+  position: absolute;
+  top: 96px;
+  left: 324px;
+  width: 137px;
+  height: 135px;
+}
+.filters {
+  position: absolute;
+  top: 102px;
+  left: 69px;
+  font-size: var(--font-size-xl);
+  line-height: 28px;
+}
+.component-18-child,
+.item-13 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  left: 0;
+}
+.component-18-child {
+  right: 0;
+  bottom: 0;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+}
+.item-13 {
+  line-height: 28px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.component-16,
+.component-17,
+.component-18 {
+  position: absolute;
+  height: 23.57%;
+  width: 92.7%;
+  top: 76.43%;
+  right: 3.65%;
+  bottom: 0;
+  left: 3.65%;
+  display: none;
+}
+.component-16,
+.component-17 {
+  top: 52.86%;
+  bottom: 23.57%;
+}
+.component-16 {
+  top: 29.29%;
+  bottom: 47.14%;
+}
+.instance-item {
+  cursor: pointer;
+  position: absolute;
+  height: 80.49%;
+  width: 100%;
+  top: 9.76%;
+  right: 0;
+  bottom: 9.76%;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+}
+.filter {
+  position: absolute;
+  height: 100%;
+  width: 64.23%;
+  top: 0;
+  left: 8.03%;
+  line-height: 28px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.instance-inner {
+  position: absolute;
+  height: 29.27%;
+  width: 12.01%;
+  top: 34.15%;
+  right: 7.5%;
+  bottom: 36.59%;
+  left: 80.49%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.group-div {
+  position: absolute;
+  height: 29.29%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 70.71%;
+  left: 0;
+}
+.component-21,
+.component-22,
+.component-23,
+.filter-bar {
+  position: absolute;
+  top: 96px;
+  left: 592px;
+  width: 137px;
+  height: 140px;
+}
+.component-22,
+.component-23,
+.filter-bar {
+  left: 860px;
+}
+.component-23,
+.filter-bar {
+  left: 1128px;
+}
+.filter-bar {
+  top: 120px;
+  left: 0;
+  width: 1440px;
+  height: 236px;
+  font-size: var(--font-size-base);
+}
+.search-button-child,
+.search-button-item {
+  cursor: pointer;
+  border: 2px solid var(--color-black);
+  padding: 0;
+  background-color: var(--color-black);
+  position: absolute;
+  height: 91.49%;
+  width: 97.65%;
+  top: 8.51%;
+  right: 0;
+  bottom: 0;
+  left: 2.35%;
+  box-sizing: border-box;
+}
+.search-button-item {
+  background-color: var(--color-azure);
+  top: 0;
+  right: 2.35%;
+  bottom: 8.51%;
+  left: 0;
+}
+.search {
+  position: absolute;
+  top: 17.02%;
+  left: 18.24%;
+  font-size: var(--font-size-xl);
+  line-height: 28px;
+  font-family: var(--font-dm-sans);
+  color: var(--color-black);
+  text-align: center;
+}
+.material-symbolssearch-rounde-icon {
+  position: absolute;
+  height: 55.32%;
+  width: 15.88%;
+  top: 19.15%;
+  right: 20.59%;
+  bottom: 25.53%;
+  left: 63.53%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.search-button {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 212px;
+  left: 1269px;
+  width: 170px;
+  height: 47px;
+}
+.new-home {
+  position: relative;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-9xl);
+  color: var(--color-black);
+  font-family: var(--font-dm-sans);
+}
